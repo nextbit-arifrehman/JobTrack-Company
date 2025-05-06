@@ -1,0 +1,242 @@
+
+{
+    "companies": [
+      {
+        "id": "1",
+        "name": "TechNova Solutions",
+        "logo": "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "location": "San Francisco, CA",
+        "website": "https://example.com/technova",
+        "industry": "Software Development",
+        "description": "Leading technology company specializing in innovative software solutions for businesses of all sizes.",
+        "founded": "2010",
+        "headquarters": "San Francisco, CA",
+        "employees": "1000-5000",
+        "jobs": [
+          {
+            "id": "job-001",
+            "title": "Frontend Developer",
+            "bannerImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "location": "San Francisco, CA (Remote Available)",
+            "salary": "$90,000 - $120,000",
+            "jobType": "Full-time",
+            "description": "TechNova is seeking a skilled Frontend Developer to create responsive and intuitive user interfaces for our cutting-edge web applications. You'll work closely with our design and backend teams to implement seamless user experiences.",
+            "requirements": [
+              "3+ years experience with React and modern JavaScript",
+              "Proficiency in HTML5, CSS3, and responsive design",
+              "Experience with state management libraries (Redux, Context API)",
+              "Understanding of RESTful APIs and data fetching",
+              "Knowledge of performance optimization techniques",
+              "Bachelor's degree in Computer Science or related field preferred"
+            ]
+          },
+          {
+            "id": "job-002",
+            "title": "Backend Engineer",
+            "bannerImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "location": "San Francisco, CA",
+            "salary": "$100,000 - $140,000",
+            "jobType": "Full-time",
+            "description": "Join our backend team to design and develop robust server-side architectures. You'll be responsible for building efficient APIs, optimizing database queries, and ensuring the scalability of our applications.",
+            "requirements": [
+              "4+ years experience in backend development",
+              "Proficiency in Node.js, Python, or Java",
+              "Experience with databases (SQL and NoSQL)",
+              "Knowledge of microservices architecture",
+              "Understanding of cloud services (AWS, Azure, or GCP)",
+              "Strong problem-solving skills"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Global Finance Group",
+        "logo": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "location": "New York, NY",
+        "website": "https://example.com/gfg",
+        "industry": "Financial Services",
+        "description": "A leading financial services company providing innovative solutions for individuals and businesses worldwide.",
+        "founded": "2005",
+        "headquarters": "New York, NY",
+        "employees": "500-1000",
+        "jobs": [
+          {
+            "id": "job-003",
+            "title": "Financial Analyst",
+            "bannerImage": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "location": "New York, NY",
+            "salary": "$85,000 - $110,000",
+            "jobType": "Full-time",
+            "description": "As a Financial Analyst at GFG, you'll be responsible for analyzing financial data, preparing reports, and providing insights to help the company make informed business decisions. You'll work closely with the finance and accounting teams.",
+            "requirements": [
+              "Bachelor's degree in Finance, Accounting, or related field",
+              "2+ years of experience in financial analysis",
+              "Proficiency in Excel and financial modeling",
+              "Knowledge of accounting principles",
+              "Strong analytical and problem-solving skills",
+              "Excellent communication and presentation abilities"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "HealthPlus Medical",
+        "logo": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "location": "Boston, MA",
+        "website": "https://example.com/healthplus",
+        "industry": "Healthcare",
+        "description": "A leading healthcare provider focused on innovative medical solutions and patient care excellence.",
+        "founded": "2008",
+        "headquarters": "Boston, MA",
+        "employees": "1000-5000",
+        "jobs": [
+          {
+            "id": "job-004",
+            "title": "Medical Research Assistant",
+            "bannerImage": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "location": "Boston, MA",
+            "salary": "$65,000 - $80,000",
+            "jobType": "Full-time",
+            "description": "Join our research team to support groundbreaking medical studies. You'll assist senior researchers in data collection, analysis, and documentation while contributing to advancements in patient care.",
+            "requirements": [
+              "Bachelor's degree in Biology, Life Sciences, or related field",
+              "Research experience in clinical or laboratory settings",
+              "Familiarity with research protocols and ethical guidelines",
+              "Data analysis and statistical knowledge",
+              "Attention to detail and documentation skills",
+              "Strong organizational abilities"
+            ]
+          },
+          {
+            "id": "job-005",
+            "title": "Healthcare Administrator",
+            "bannerImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "location": "Boston, MA",
+            "salary": "$75,000 - $95,000",
+            "jobType": "Full-time",
+            "description": "Oversee administrative operations for our healthcare facilities. You'll manage staff, ensure compliance with regulations, and develop strategies to improve patient care and organizational efficiency.",
+            "requirements": [
+              "Bachelor's degree in Healthcare Administration or related field",
+              "3+ years of experience in healthcare management",
+              "Knowledge of healthcare regulations and compliance",
+              "Strong leadership and team management skills",
+              "Excellent communication and interpersonal abilities",
+              "Problem-solving and decision-making capabilities"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "EcoDesign Architects",
+        "logo": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "location": "Portland, OR",
+        "website": "https://example.com/ecodesign",
+        "industry": "Architecture & Design",
+        "description": "Sustainable architecture firm committed to creating environmentally-friendly building designs.",
+        "founded": "2012",
+        "headquarters": "Portland, OR",
+        "employees": "50-200",
+        "jobs": [
+          {
+            "id": "job-006",
+            "title": "Sustainable Design Architect",
+            "bannerImage": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "location": "Portland, OR",
+            "salary": "$90,000 - $120,000",
+            "jobType": "Full-time",
+            "description": "Create innovative, environmentally friendly architectural designs for residential and commercial projects. You'll incorporate sustainable materials and energy-efficient systems while ensuring aesthetic excellence.",
+            "requirements": [
+              "Master's degree in Architecture",
+              "LEED certification preferred",
+              "4+ years of experience in architectural design",
+              "Proficiency in CAD and 3D modeling software",
+              "Knowledge of green building practices and materials",
+              "Strong portfolio demonstrating sustainable design principles"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "DataMetrics Analytics",
+        "logo": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "location": "Austin, TX",
+        "website": "https://example.com/datametrics",
+        "industry": "Data Analytics",
+        "description": "Data analytics company specializing in business intelligence solutions and predictive modeling.",
+        "founded": "2015",
+        "headquarters": "Austin, TX",
+        "employees": "200-500",
+        "jobs": [
+          {
+            "id": "job-007",
+            "title": "Data Scientist",
+            "bannerImage": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "location": "Austin, TX",
+            "salary": "$110,000 - $150,000",
+            "jobType": "Full-time",
+            "description": "Join our data science team to extract insights from complex datasets. You'll build predictive models, conduct statistical analyses, and develop machine learning algorithms to drive business decisions.",
+            "requirements": [
+              "Master's or PhD in Statistics, Computer Science, or related field",
+              "3+ years experience in data science or machine learning",
+              "Proficiency in Python, R, or similar programming languages",
+              "Experience with data visualization tools and techniques",
+              "Knowledge of deep learning frameworks",
+              "Strong mathematical and statistical foundation"
+            ]
+          },
+          {
+            "id": "job-008",
+            "title": "Business Intelligence Analyst",
+            "bannerImage": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "location": "Remote",
+            "salary": "$85,000 - $110,000",
+            "jobType": "Full-time",
+            "description": "Transform business data into actionable insights. You'll create dashboards, reports, and visualizations to help stakeholders understand trends and make strategic decisions.",
+            "requirements": [
+              "Bachelor's degree in Business, Computer Science, or related field",
+              "2+ years of experience in business intelligence or analytics",
+              "Proficiency in SQL and data visualization tools (Tableau, Power BI)",
+              "Understanding of data warehousing concepts",
+              "Strong analytical and critical thinking skills",
+              "Excellent communication abilities"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "CreativeMinds Marketing",
+        "logo": "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "location": "Chicago, IL",
+        "website": "https://example.com/creativeminds",
+        "industry": "Marketing",
+        "description": "Innovative marketing agency providing creative solutions for brand growth and customer engagement.",
+        "founded": "2018",
+        "headquarters": "Chicago, IL",
+        "employees": "50-200",
+        "jobs": [
+          {
+            "id": "job-009",
+            "title": "Digital Marketing Specialist",
+            "bannerImage": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "location": "Chicago, IL (Hybrid)",
+            "salary": "$70,000 - $90,000",
+            "jobType": "Full-time",
+            "description": "Drive our digital marketing strategies across multiple platforms. You'll manage social media campaigns, email marketing, SEO/SEM initiatives, and content creation to increase brand awareness and generate leads.",
+            "requirements": [
+              "Bachelor's degree in Marketing, Communications, or related field",
+              "3+ years of experience in digital marketing",
+              "Proficiency in social media management and analytics tools",
+              "Knowledge of SEO/SEM principles and best practices",
+              "Experience with email marketing platforms",
+              "Strong creative and copywriting skills"
+            ]
+          }
+        ]
+      }
+    ]
+  }
